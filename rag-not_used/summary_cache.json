@@ -1,0 +1,56 @@
+{
+  "generated_at": "2025-11-17T10:09:05.275975",
+  "data": {
+    "yearly_sales": {
+      "2021": 449.46,
+      "2022": 481.45,
+      "2023": 469.58,
+      "2024": 477.53,
+      "2025": 450.58
+    },
+    "top_genres": [
+      [
+        "Rock",
+        826.65
+      ],
+      [
+        "Latin",
+        382.14
+      ],
+      [
+        "Metal",
+        261.36
+      ],
+      [
+        "Alternative & Punk",
+        241.56
+      ],
+      [
+        "TV Shows",
+        93.53
+      ]
+    ],
+    "top_customers": [
+      [
+        "Helena Hol\u00fd",
+        49.62
+      ],
+      [
+        "Richard Cunningham",
+        47.62
+      ],
+      [
+        "Luis Rojas",
+        46.62
+      ],
+      [
+        "Ladislav Kov\u00e1cs",
+        45.62
+      ],
+      [
+        "Hugh O'Reilly",
+        45.62
+      ]
+    ]
+  }
+}
